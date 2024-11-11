@@ -25,7 +25,11 @@ class MyApp extends StatelessWidget {
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
 
+<<<<<<< HEAD
 
+=======
+//  salama
+>>>>>>> bb4a56e55e503423e659d3223dfb287165acfb58
 
   final String title;
 
